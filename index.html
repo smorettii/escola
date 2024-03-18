@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WAmuca</title>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,1,0" />
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<div id="progress-bar"></div>
+
+<body>
+    <div id="background">
+        <img src="./images/background.png">
+    </div>
+    <div id="login">
+        <form action="">
+            <h1>Insira o seu nome abaixo</h1>
+            <input type="text" required placeholder="Nome">
+            <button type="submit" class="enviar_login">
+                Entrar
+            </button>
+        </form>
+    </div>
+
+    <div id="conversa">
+        <div id="mensagens">
+            <div id="topo">
+                <div>
+                    <img src="./images/imagem.png">
+                    <h1>9A 🤪</h1>
+                </div>
+
+                <div>
+                    <h1 id="onlines"></h1>
+                </div>
+            </div>
+            <br><br>
+        </div>
+        <form id="enviar_input">
+            <input type="text" id="mensagem" placeholder="Sua mensagem">
+            <button id="enviar_mensagem">
+                <span class="material-symbols-outlined">
+                    send
+                </span>
+            </button>
+        </form>
+    </div>
+</body>
+
+<script src="./js/script.js"></script>
+
+</html>
