@@ -1,0 +1,271 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color: white;
+}
+
+body {
+    overflow-x: hidden
+}
+
+#background {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+}
+
+#background img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#login form {
+    position: fixed;
+    width: 90%;
+    max-width: 350px;
+    background-color: rgb(7, 7, 7);
+    border-radius: 10px;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    height: 200px;
+    padding: 10px;
+    text-align: center;
+}
+
+#login form h1 {
+    font-weight: 100;
+    font-size: 25px;
+}
+
+#login form {
+    display: flex;
+    flex-direction: column;
+}
+
+#login form input {
+    height: 50px;
+    background-color: rgb(15, 15, 15);
+    color: white;
+    border: none;
+    border-radius: 3px;
+    margin-top: 30px;
+    padding-left: 10px
+}
+
+#login form input:focus {
+    outline: none
+}
+
+#login form button {
+    color: white;
+    background-color: rgb(10, 10, 10);
+    border: none;
+    height: 40px;
+    bottom: 10px;
+    position: absolute;
+    width: 95%;
+    cursor: pointer;
+    transition: 200ms ease-in-out;
+    font-size: 16px;
+}
+
+#login form button:hover {
+    transform: scale(1.01)
+}
+
+#login form input::placeholder {
+    color: white;
+}
+
+#conversa {
+    width: 100%;
+    height: 100vh;
+    display: none;
+}
+
+
+#progress-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0px;
+    height: 5px;
+    background-color: #007bff;
+    z-index: 1000;
+}
+
+#enviar_input {
+    width: 90%;
+    background-color: rgb(16, 16, 16);
+    display: flex;
+    margin-left: 5%;
+    height: 40px;
+    padding: 3px;
+    border-radius: 5px;
+    position: fixed;
+    bottom: 10px
+}
+
+#enviar_input * {
+    border: none;
+}
+
+#enviar_input input {
+    width: 90%;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background-color: rgb(19, 19, 19);
+    padding-left: 10px
+}
+
+#enviar_input input:focus {
+    outline: none;
+}
+
+#enviar_input input::placeholder {
+    color: white;
+}
+
+#enviar_input button {
+    width: 10%;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: rgb(19, 19, 19);
+    cursor: pointer;
+}
+
+.carregando {
+    animation: carregando 1000ms ease-in-out infinite
+}
+
+@keyframes carregando {
+    0% {
+        width: 0;
+    }
+
+    50% {
+        width: 100%;
+        left: 0
+    }
+
+    100% {
+        width: 0;
+        left: 100%;
+    }
+}
+
+#mensagens {
+    width: 90%;
+    height: 90%;
+    margin-left: 5%;
+    text-align: center;
+    overflow-y: auto;
+
+}
+
+#entrounochat {
+    font-size: 15px;
+    background-color: rgba(31, 31, 31, 0.59);
+    margin-bottom: 2px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    cursor: pointer;
+    font-weight: 100;
+}
+
+#topo {
+    width: 95%;
+    background-color: rgb(22, 22, 22);
+    position: fixed;
+    margin-left: -2.5%;
+    display: flex;
+    padding-left: 10px;
+    align-items: center;
+    height: 35px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    justify-content: space-between;
+    z-index: 2
+}
+
+
+
+#mensagem_ativa {
+    display: flex;
+    width: 50%;
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 2px
+}
+
+#outro {
+    position: relative
+}
+
+.verde {
+    background-color: rgb(71, 29, 186);
+}
+
+.branco {
+    background-color: rgb(42, 41, 41);
+}
+
+#mensagem_ativa #nome {
+    font-size: 15px;
+    position: absolute;
+}
+
+#mensagem_ativa #content {
+    font-size: 14px;
+    margin-top: 15px
+}
+
+.semmargin {
+    margin-top: 0px
+}
+
+#onlines {
+    font-size: 13px;
+    font-weight: 100;
+    cursor: pointer
+}
+
+#topo div {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+#topo h1 {
+    font-size: 15px;
+    margin-left: 5px
+}
+
+#topo img {
+    width: 30px;
+    border-radius: 100px;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
