@@ -99,8 +99,54 @@ body {
     z-index: 1000;
 }
 
+#enviar_file {
+    cursor:pointer;
+    z-index:2;
+    pointer-events:all
+}
+
+#confirmarImagem {
+    position:fixed;
+    width:50%;
+    height:350px;
+    top:50%;
+    right:50%;
+    transform:translate(50%, -50%);
+    background-color: rgb(34, 34, 34);
+    text-align: center;
+    border-radius: 10px;
+}
+
+#confirmarImagem > h1 {
+    font-weight: 200;
+}
+
+#confirmarImagem img {
+    width:90%;
+    height:250px;
+    border-radius: 10px;
+}
+
+#confirmarImagem > div {
+    width:100%;
+    display:flex;
+    justify-content: center;
+}
+
+#confirmarImagem > div button {
+    width:100px;
+    height:40px;
+    margin:0 2px;
+    border:none;
+    background-color:rgb(20, 20, 20);
+    color:white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
 #enviar_input {
-    width: 90%;
+    width: 80%;
     background-color: rgb(16, 16, 16);
     display: flex;
     margin-left: 5%;
@@ -196,6 +242,12 @@ body {
     z-index: 2
 }
 
+#mensagemImagem {
+    width:100%;
+    height:250px;
+    margin-top:5px;
+    border-radius: 10px;
+}
 
 
 #mensagem_ativa {
@@ -203,7 +255,8 @@ body {
     width: 50%;
     border-radius: 10px;
     padding: 5px;
-    margin-bottom: 2px
+    margin-bottom: 2px;
+
 }
 
 #outro {
@@ -253,6 +306,29 @@ body {
     width: 30px;
     border-radius: 100px;
 }
+
+#digitando {
+    font-weight: 100;
+    font-size: 15px;
+    animation: digitando 1s ease-in-out infinite forwards;
+    transition:200ms ease-in-out
+}
+
+@keyframes digitando {
+    0% {
+        transform:scale(1.0)
+    }
+
+    50% {
+        transform:scale(1.01)
+    }
+
+    100% {
+        transform:scale(1.0)
+    }
+}
+
+
 
 ::-webkit-scrollbar {
     width: 0px;
