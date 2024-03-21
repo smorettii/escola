@@ -41,11 +41,14 @@ window.onload = async () => {
     }
 
     function pegar_senha(){
-        if (localStorage.getItem('senha') !== null && localStorage.getItem('senha') !== 'null') {
+        if (localStorage.getItem('senha') !== null) {
             return localStorage.getItem('senha')
         }
         const senha = prompt('Digite sua senha')
-        localStorage.setItem('senha', senha)
+        const salvar = confirm("Salvar senha?")
+        if (salvar == true) {
+            localStorage.setItem('senha', senha)
+        }
         return senha
     }
 
@@ -264,7 +267,7 @@ window.onload = async () => {
         document.querySelector("#login").style.display = 'none'
         document.querySelector("#conversa").style.display = 'block'
 
-        const aa = new WebSocket('wss://escolaapisamuel.squareweb.app') //new WebSocket('ws://localhost:80')
+        const aa = new WebSocket('wss://escolaapisamuel.squareweb.app') // new WebSocket('ws://localhost:80')
         ws = aa 
 
         let continuar = false
