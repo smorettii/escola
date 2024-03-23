@@ -1,4 +1,6 @@
 window.onload = async () => {
+
+    //CURIOSO
     async function wait(ms) { return new Promise(result => setTimeout(result, ms)) }
     let meu_nome = ''
     function carregando() {
