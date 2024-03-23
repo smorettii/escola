@@ -1,5 +1,5 @@
 window.onload = async () => {
-    //Version 2.5
+    //Version 2.6
 
     async function wait(ms) { return new Promise(result => setTimeout(result, ms)) }
     let meu_nome = ''
