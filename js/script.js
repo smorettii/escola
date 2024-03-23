@@ -1,1 +1,466 @@
-const _0x2ad8a3=_0x253d;(function(_0x37fb99,_0xe57ec0){const _0x365a4b=_0x253d,_0xcaf0b4=_0x37fb99();while(!![]){try{const _0x159af1=-parseInt(_0x365a4b(0x1fd))/0x1*(-parseInt(_0x365a4b(0x1cd))/0x2)+-parseInt(_0x365a4b(0x164))/0x3*(parseInt(_0x365a4b(0x1b8))/0x4)+-parseInt(_0x365a4b(0x1f2))/0x5*(-parseInt(_0x365a4b(0x1c9))/0x6)+parseInt(_0x365a4b(0x174))/0x7*(-parseInt(_0x365a4b(0x203))/0x8)+parseInt(_0x365a4b(0x1f0))/0x9*(-parseInt(_0x365a4b(0x1e3))/0xa)+-parseInt(_0x365a4b(0x191))/0xb*(parseInt(_0x365a4b(0x1aa))/0xc)+parseInt(_0x365a4b(0x1e9))/0xd*(parseInt(_0x365a4b(0x182))/0xe);if(_0x159af1===_0xe57ec0)break;else _0xcaf0b4['push'](_0xcaf0b4['shift']());}catch(_0x32eb05){_0xcaf0b4['push'](_0xcaf0b4['shift']());}}}(_0x1d18,0x8aa5c));const _0x474846=(function(){let _0x4bb34f=!![];return function(_0x364b4c,_0x52f177){const _0x1e65fa=_0x4bb34f?function(){const _0x478d97=_0x253d;if(_0x52f177){const _0x1c3035=_0x52f177[_0x478d97(0x18d)](_0x364b4c,arguments);return _0x52f177=null,_0x1c3035;}}:function(){};return _0x4bb34f=![],_0x1e65fa;};}()),_0x5ea1e2=_0x474846(this,function(){const _0x2eec35=_0x253d;return _0x5ea1e2[_0x2eec35(0x1f5)]()[_0x2eec35(0x189)]('(((.+)+)+)+$')['toString']()['constructor'](_0x5ea1e2)[_0x2eec35(0x189)](_0x2eec35(0x1d1));});function _0x1d18(){const _0x346d5c=['16921DtyaOl','#conversa','#nao','prototype','online','className','1742776IUuptH','cadetblue','#enviar_input','status','smooth','splice','title','Digite\x20sua\x20mensagem\x20para\x20','input','\x20Foi\x20banido\x20do\x20chat!','originalEvent','#login','Você','style','9qlWhDO','content','#mensagens','clipboardData','\x22\x20src=\x22','carregando','typing','outro','random','#content','innerHTML','getAsFile','gold','location','hotpink','console','35RXmSol','classList','#menu_usuario_click','textContent','entrounochat','darkkhaki','mensagem_ativa','click','\x22>Sim</button>\x20<button\x20id=\x22nao','pointer','enter','trace','remove','includes','2478ypLCtt','body','querySelector','exception','darkgoldenrod','querySelectorAll','scrollHeight','search','justify-content','items','opacity','apply','delete_message',')\x20WAmuca','info','462kkophU','cornflowerblue','split','Você\x20foi\x20banido\x20do\x20chat!','scrollTop','bind','display','{}.constructor(\x22return\x20this\x22)(\x20)','mousemove','forEach','\x20Onlines','log','Banir','\x20Saiu\x20do\x20Chat!','message','createElement','\x20Online','\x20está\x20digitando...','getItem','Digite\x20sua\x20senha','branco','<h1>Deseja\x20enviar\x20essa\x20imagem?</h1>\x20<img\x20src=\x22','submit','mensagem','file','51648pfjzGe','target','Excluir','confirmarImagem','#progress-bar','<span\x20class=\x22material-symbols-outlined\x22>delete_forever</span>Mensagem\x20excluida\x20por\x20um\x20Administrador','form','getElementById','onerror','add','\x22>Não</button></div>','end','right','cor','12908itKJtG','#onlines','removeChild','appendChild','\x20-\x20<strong\x20style=\x22color:black\x22>Só\x20você\x20pode\x20ler\x20isso</strong>','paste','preventDefault','result','none','table','color','Sair','#mensagem','length','senha','floor','reload','415212aNSIqt','stringify','block','send','104wERIZe','readAsDataURL','O\x20WebSocket\x20foi\x20fechado,\x20por\x20isso\x20iremos\x20recarregar\x20a\x20sua\x20pagina!','parse','(((.+)+)+)+$','Privado','return\x20(function()\x20','Pessoas\x20online:\x20','__proto__','0.7','onclose','mensagens','O\x20nome\x20precisa\x20ter\x20no\x20mínimo\x202\x20caracteres!','private','data:image/png;base64','cursor','onmessage','expandido','\x22>\x20<div><button\x20id=\x22sim','onload','value','Esse\x20nome\x20ja\x20está\x20no\x20servidor!','2630TmEcoO','keydown','O\x20único\x20online\x20aqui\x20é\x20você!','font-weight','constructor','abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPRSTUVWXYZ1234567890','85423AoDFGp','O\x20usuário\x20não\x20está\x20mais\x20no\x20servidor','nome','#sim','Sua\x20mensagem\x20tem\x20que\x20ter\x20no\x20mínimo\x202\x20caracteres!','#opcao_menu','semmargin','27999ddJVMO','margin-left','45RAzCoL','getAttribute','<img\x20style=\x22margin-top:2px;\x20cursor:pointer;\x22\x20id=\x22mensagemImagem\x22\x20class=\x22imagem_teste\x20imagemClique','toString','verde','join','#digitando','50%','alt','type','addEventListener'];_0x1d18=function(){return _0x346d5c;};return _0x1d18();}_0x5ea1e2();const _0x4bf371=(function(){let _0x2b311=!![];return function(_0x5142f4,_0x34f237){const _0x4efe1c=_0x2b311?function(){const _0x5c6c9b=_0x253d;if(_0x34f237){const _0x4d74c6=_0x34f237[_0x5c6c9b(0x18d)](_0x5142f4,arguments);return _0x34f237=null,_0x4d74c6;}}:function(){};return _0x2b311=![],_0x4efe1c;};}()),_0x185514=_0x4bf371(this,function(){const _0x86dcec=_0x253d,_0x578a39=function(){const _0x1e95cf=_0x253d;let _0x33e5f0;try{_0x33e5f0=Function(_0x1e95cf(0x1d3)+_0x1e95cf(0x198)+');')();}catch(_0x3cb24f){_0x33e5f0=window;}return _0x33e5f0;},_0x4cef75=_0x578a39(),_0xa25616=_0x4cef75[_0x86dcec(0x173)]=_0x4cef75[_0x86dcec(0x173)]||{},_0x3c9f92=[_0x86dcec(0x19c),'warn',_0x86dcec(0x190),'error',_0x86dcec(0x185),_0x86dcec(0x1c1),_0x86dcec(0x17f)];for(let _0x2a18b8=0x0;_0x2a18b8<_0x3c9f92[_0x86dcec(0x1c5)];_0x2a18b8++){const _0x4508f2=_0x4bf371[_0x86dcec(0x1e7)][_0x86dcec(0x200)][_0x86dcec(0x196)](_0x4bf371),_0x3ce208=_0x3c9f92[_0x2a18b8],_0x319287=_0xa25616[_0x3ce208]||_0x4508f2;_0x4508f2[_0x86dcec(0x1d5)]=_0x4bf371[_0x86dcec(0x196)](_0x4bf371),_0x4508f2[_0x86dcec(0x1f5)]=_0x319287['toString']['bind'](_0x319287),_0xa25616[_0x3ce208]=_0x4508f2;}});function _0x253d(_0x54819a,_0x366371){const _0x4d0615=_0x1d18();return _0x253d=function(_0x185514,_0x4bf371){_0x185514=_0x185514-0x15d;let _0x5f58c3=_0x4d0615[_0x185514];return _0x5f58c3;},_0x253d(_0x54819a,_0x366371);}_0x185514(),window[_0x2ad8a3(0x1e0)]=async()=>{const _0x2e3719=_0x2ad8a3;async function _0x353174(_0x54f472){return new Promise(_0x2a74fe=>setTimeout(_0x2a74fe,_0x54f472));}let _0x46a7a5='';function _0x3325b3(){const _0x570883=_0x253d;document[_0x570883(0x184)](_0x570883(0x1ae))['classList']['add'](_0x570883(0x169));}function _0x497676(){const _0x4528fe=_0x253d;document[_0x4528fe(0x184)](_0x4528fe(0x1ae))[_0x4528fe(0x175)]['remove']('carregando');}let _0x56517f=0x0;var _0x7398ea=![];function _0x1d2931(){_0x7398ea=!![];}function _0x3ddefc(){_0x7398ea&&(_0x7398ea=![]);}document[_0x2e3719(0x1fc)](_0x2e3719(0x199),_0x1d2931),document['addEventListener'](_0x2e3719(0x1e4),_0x1d2931),document[_0x2e3719(0x1fc)]('scroll',_0x1d2931),setInterval(_0x3ddefc,0x1388);function _0x4d15c1(_0x43d4fd){const _0x17816f=_0x2e3719,_0x6a2f84=document[_0x17816f(0x1a0)]('h1');_0x6a2f84[_0x17816f(0x177)]=_0x43d4fd+'\x20Entrou\x20no\x20Chat!',_0x6a2f84['id']='entrounochat',document[_0x17816f(0x184)](_0x17816f(0x166))[_0x17816f(0x1bb)](_0x6a2f84),_0x4c11aa();}let _0x20a0c0={'nome':null,'cor':null};function _0x1cd074(){const _0x219bb3=_0x2e3719;if(localStorage[_0x219bb3(0x1a3)](_0x219bb3(0x1c6))!==null)return localStorage[_0x219bb3(0x1a3)]('senha');const _0x34d101=prompt(_0x219bb3(0x1a4)),_0x809796=confirm('Salvar\x20senha?');return _0x809796==!![]&&localStorage['setItem'](_0x219bb3(0x1c6),_0x34d101),_0x34d101;}function _0x3f83ba(){const _0x20fcb5=_0x2e3719;let _0x36208d=_0x20fcb5(0x1e8)[_0x20fcb5(0x193)](''),_0x2d5cf4='';for(var _0x25b600=0x0;_0x25b600<=0x32;_0x25b600++){_0x2d5cf4=_0x2d5cf4+_0x36208d[Math[_0x20fcb5(0x1c7)](Math['random']()*_0x36208d[_0x20fcb5(0x1c5)])];}return _0x2d5cf4;}let _0x3fcf9e;function _0x4163ff(_0x5332c7){const _0x27e43e=_0x2e3719,_0x8c65a4=_0x5332c7['classe_mensagem'],_0x63722=_0x5332c7,_0x2e0385=document[_0x27e43e(0x1a0)]('div');_0x2e0385['id']=_0x27e43e(0x16b);const _0x508d4d=document['createElement']('h1');_0x508d4d['id']=_0x27e43e(0x1eb),_0x508d4d[_0x27e43e(0x177)]=_0x63722[_0x27e43e(0x1eb)],_0x508d4d[_0x27e43e(0x163)][_0x27e43e(0x1c2)]=_0x63722['color'],_0x508d4d[_0x27e43e(0x1fc)]('click',async()=>{const _0x30ffd5=_0x27e43e;if(_0x370712['includes'](_0x63722['nome'])==!![]){const _0x142e38=document[_0x30ffd5(0x184)](_0x30ffd5(0x176));_0x142e38[_0x30ffd5(0x163)][_0x30ffd5(0x197)]=_0x30ffd5(0x1cb);let _0xc480f='';_0x142e38[_0x30ffd5(0x187)](_0x30ffd5(0x1ee))[_0x30ffd5(0x19a)](_0x24585a=>{const _0x21d870=_0x30ffd5;_0x24585a['addEventListener'](_0x21d870(0x17b),()=>{const _0x1f7d65=_0x21d870;_0xc480f=_0x24585a[_0x1f7d65(0x1f3)](_0x1f7d65(0x1fa));});});while(_0xc480f==''){await _0x353174(0xa);}_0x142e38[_0x30ffd5(0x163)]['display']=_0x30ffd5(0x1c0);if(_0xc480f==_0x30ffd5(0x1c3))return;if(_0xc480f==_0x30ffd5(0x1ac)){const _0x2bbb45=_0x1cd074();if(_0x2bbb45==null||_0x2bbb45=='')return;_0x3fcf9e[_0x30ffd5(0x1cc)](JSON[_0x30ffd5(0x1ca)]({'type':_0x30ffd5(0x18e),'id':_0x8c65a4,'password':_0x2bbb45}));return;}if(_0xc480f==_0x30ffd5(0x19d)){const _0x4130da=_0x1cd074();if(_0x4130da==null||_0x4130da=='')return;_0x3fcf9e[_0x30ffd5(0x1cc)](JSON['stringify']({'type':'ban','password':_0x4130da,'nome':_0x508d4d[_0x30ffd5(0x16e)][_0x30ffd5(0x193)]('\x20-')[0x0]}));return;}if(_0xc480f==_0x30ffd5(0x1d2)){const _0x3d78e2=prompt(_0x30ffd5(0x15d)+_0x508d4d[_0x30ffd5(0x16e)][_0x30ffd5(0x193)]('\x20-')[0x0]+':');if(_0x3d78e2==null||_0x3d78e2=='')return;_0x3fcf9e['send'](JSON['stringify']({'type':_0x30ffd5(0x19f),'content':_0x3d78e2,'quem':_0x508d4d[_0x30ffd5(0x16e)][_0x30ffd5(0x193)]('\x20-')[0x0],'nome':_0x20a0c0[_0x30ffd5(0x1eb)],'color':_0x20a0c0[_0x30ffd5(0x1b7)],'private':!![]}));return;}}else alert(_0x30ffd5(0x1ea));}),_0x508d4d[_0x27e43e(0x163)][_0x27e43e(0x1dc)]=_0x27e43e(0x17d);const _0x5a520d=document['createElement']('h1'),_0x2a5255=document['createElement']('ultima');_0x63722[_0x27e43e(0x1eb)]==_0x46a7a5?(_0x2a5255['className']=_0x27e43e(0x1f6),_0x2e0385[_0x27e43e(0x163)][_0x27e43e(0x18a)]=_0x27e43e(0x1b6),_0x2a5255[_0x27e43e(0x163)][_0x27e43e(0x1f1)]=_0x27e43e(0x1f9),_0x2e0385[_0x27e43e(0x1bb)](_0x508d4d),_0x2e0385['appendChild'](_0x5a520d),_0x508d4d[_0x27e43e(0x177)]=_0x27e43e(0x162),_0x5a520d['className']=_0x27e43e(0x1ef),_0x63722['private']==!![]&&(_0x508d4d[_0x27e43e(0x177)]='Você\x20-\x20Mensagem\x20Privada',_0x2a5255[_0x27e43e(0x163)][_0x27e43e(0x18c)]=_0x27e43e(0x1d6))):(_0x56517f+=0x1,_0x2a5255[_0x27e43e(0x202)]=_0x27e43e(0x1a5),_0x2e0385['style'][_0x27e43e(0x18a)]='left',_0x2e0385[_0x27e43e(0x1bb)](_0x508d4d),_0x2e0385['appendChild'](_0x5a520d),_0x63722[_0x27e43e(0x1da)]==!![]&&(_0x508d4d[_0x27e43e(0x16e)]=_0x63722['nome']+_0x27e43e(0x1bc),_0x2a5255['style']['opacity']=_0x27e43e(0x1d6)));_0x5a520d['id']=_0x27e43e(0x165),_0x5a520d[_0x27e43e(0x16e)]=_0x63722[_0x27e43e(0x165)];if(_0x63722[_0x27e43e(0x165)]['includes'](_0x27e43e(0x1db))==!![]){let _0x4f7530=Math[_0x27e43e(0x1c7)](Math['random']()*0x5f5e100);_0x5a520d[_0x27e43e(0x16e)]=_0x27e43e(0x1f4)+_0x4f7530+_0x27e43e(0x168)+_0x63722[_0x27e43e(0x165)]+'\x22>',setTimeout(()=>{const _0x3e1379=_0x27e43e;document[_0x3e1379(0x184)]('.'+('imagemClique'+_0x4f7530))[_0x3e1379(0x1fc)](_0x3e1379(0x17b),()=>{const _0x264643=_0x3e1379,_0x5a158c=document['querySelector']('.'+('imagemClique'+_0x4f7530));_0x5a158c['classList']['contains'](_0x264643(0x1de))?_0x5a158c[_0x264643(0x175)][_0x264643(0x180)]('expandido'):_0x5a158c[_0x264643(0x175)][_0x264643(0x1b3)](_0x264643(0x1de));});},0x64);}_0x2a5255['id']=_0x27e43e(0x17a),_0x2a5255['appendChild'](_0x2e0385),_0x2a5255['classList'][_0x27e43e(0x1b3)](_0x8c65a4),document[_0x27e43e(0x184)](_0x27e43e(0x166))[_0x27e43e(0x1bb)](_0x2a5255),_0x4c11aa();}function _0x3ca621(_0x385af0){const _0x23004e=_0x2e3719;if(_0x402d15['includes'](_0x385af0)==!![]){_0x402d15[_0x23004e(0x208)](_0x402d15['findIndex'](_0x5eaf8f=>_0x5eaf8f==_0x385af0),0x1);return;}const _0xcc3e48=document[_0x23004e(0x1a0)]('h1');_0xcc3e48[_0x23004e(0x177)]=_0x385af0+_0x23004e(0x19e),_0xcc3e48['id']=_0x23004e(0x178),document[_0x23004e(0x184)](_0x23004e(0x166))['appendChild'](_0xcc3e48),_0x4c11aa();}let _0x402d15=[];function _0x12445e(_0x167114){const _0x351a4f=_0x2e3719,_0x1990a2=document[_0x351a4f(0x1a0)]('h1');_0x1990a2['textContent']=_0x167114+_0x351a4f(0x15f),_0x1990a2['id']=_0x351a4f(0x178),document[_0x351a4f(0x184)](_0x351a4f(0x166))[_0x351a4f(0x1bb)](_0x1990a2),_0x4c11aa(),_0x402d15['push'](_0x167114),_0x167114==_0x20a0c0[_0x351a4f(0x1eb)]&&(alert(_0x351a4f(0x194)),window[_0x351a4f(0x171)][_0x351a4f(0x1c8)]());}let _0x370712=[];const _0x28af6c=[_0x2e3719(0x204),_0x2e3719(0x186),_0x2e3719(0x192),_0x2e3719(0x179),_0x2e3719(0x172),_0x2e3719(0x170)];let _0x56198a=![];document[_0x2e3719(0x184)](_0x2e3719(0x1b0))[_0x2e3719(0x1fc)]('submit',async _0xd8f8b1=>{const _0xcf9e6c=_0x2e3719;_0xd8f8b1[_0xcf9e6c(0x1be)](),_0x3325b3();let _0x23b80a=document[_0xcf9e6c(0x184)]('form')[_0xcf9e6c(0x184)](_0xcf9e6c(0x15e))[_0xcf9e6c(0x1e1)];_0x23b80a=_0x23b80a[_0xcf9e6c(0x193)]('\x20');_0x23b80a[_0xcf9e6c(0x1c5)]>0x2?_0x23b80a=_0x23b80a[0x0]+'\x20'+_0x23b80a[0x1]:_0x23b80a=_0x23b80a[0x0];if(_0x370712[_0xcf9e6c(0x181)](_0x23b80a)==!![])return alert(_0xcf9e6c(0x1e2));if(_0x23b80a['length']<=0x1)return _0x497676(),alert(_0xcf9e6c(0x1d9));_0x46a7a5=_0x23b80a;const _0x2867fe=_0x28af6c[Math['floor'](Math[_0xcf9e6c(0x16c)]()*_0x28af6c[_0xcf9e6c(0x1c5)])];_0x20a0c0[_0xcf9e6c(0x1b7)]=_0x2867fe,_0x20a0c0['nome']=_0x23b80a,await _0x353174(Math[_0xcf9e6c(0x16c)]()*0x5dc),_0x497676(),document[_0xcf9e6c(0x184)](_0xcf9e6c(0x161))[_0xcf9e6c(0x163)]['display']=_0xcf9e6c(0x1c0),document['querySelector'](_0xcf9e6c(0x1fe))['style']['display']=_0xcf9e6c(0x1cb);const _0x5d456f=new WebSocket('wss://escolaapisamuel.squareweb.app');_0x3fcf9e=_0x5d456f;let _0x49a8e4=![];_0x3fcf9e['onopen']=async()=>{const _0x533f03=_0xcf9e6c;_0x49a8e4=!![],await _0x353174(0x3e8),_0x3fcf9e[_0x533f03(0x1cc)](JSON[_0x533f03(0x1ca)]({'type':'enter','mensagem':'O\x20usuário\x20'+_0x23b80a+'\x20entrou!','nome':_0x23b80a,'cor':_0x2867fe}));};while(_0x49a8e4==![]){await _0x353174(0x1);}let _0x3ca2e6=![];_0x3fcf9e[_0xcf9e6c(0x1b2)]=_0x5f14df=>{const _0x1f2e4f=_0xcf9e6c;console[_0x1f2e4f(0x19c)](_0x5f14df);},_0x3fcf9e[_0xcf9e6c(0x1dd)]=({data:_0x3aa7b4})=>{const _0x17b4ee=_0xcf9e6c,_0x8cc79d=JSON[_0x17b4ee(0x1d0)](_0x3aa7b4);if(_0x8cc79d[_0x17b4ee(0x1fb)]==_0x17b4ee(0x17e)){const _0x427955=_0x8cc79d['nome'];_0x4d15c1(_0x427955);}else{if(_0x8cc79d[_0x17b4ee(0x1fb)]=='leave'){const _0xc596ad=_0x8cc79d[_0x17b4ee(0x1eb)];_0x3ca621(_0xc596ad);}else{if(_0x8cc79d[_0x17b4ee(0x1fb)]==_0x17b4ee(0x201)){const _0x197347=_0x8cc79d['onlines'];_0x370712=_0x8cc79d['nomes'],document['querySelector']('#onlines')['innerHTML']=_0x197347==0x1?_0x197347+_0x17b4ee(0x1a1):_0x197347+_0x17b4ee(0x19b);}else{if(_0x8cc79d['type']==_0x17b4ee(0x19f))_0x4163ff(_0x8cc79d);else{if(_0x8cc79d[_0x17b4ee(0x1fb)]==_0x17b4ee(0x16a)){const _0x21ca56=_0x8cc79d[_0x17b4ee(0x1eb)],_0x2c257f=_0x8cc79d[_0x17b4ee(0x206)];_0x3ca2e6=_0x2c257f,_0x2c257f==!![]?(document[_0x17b4ee(0x184)]('#digitando')[_0x17b4ee(0x177)]=_0x2c257f==!![]?_0x21ca56[_0x17b4ee(0x193)]('\x20')[0x0]+_0x17b4ee(0x1a2):'',document['querySelector'](_0x17b4ee(0x1f8))[_0x17b4ee(0x163)]['opacity']='1'):document[_0x17b4ee(0x184)](_0x17b4ee(0x1f8))['style'][_0x17b4ee(0x18c)]='0';}else{if(_0x8cc79d[_0x17b4ee(0x1fb)]=='delete_message'){const _0xbb4bbd=document[_0x17b4ee(0x184)]('.'+_0x8cc79d['id']);_0xbb4bbd&&(_0xbb4bbd['querySelector'](_0x17b4ee(0x16d))[_0x17b4ee(0x16e)]=_0x17b4ee(0x1af),_0xbb4bbd[_0x17b4ee(0x184)](_0x17b4ee(0x16d))[_0x17b4ee(0x163)][_0x17b4ee(0x1e6)]='100',_0xbb4bbd['style']['opacity']=_0x17b4ee(0x1d6));}else _0x8cc79d[_0x17b4ee(0x1fb)]=='ban'&&_0x12445e(_0x8cc79d[_0x17b4ee(0x1eb)]);}}}}}},_0x3fcf9e[_0xcf9e6c(0x1d7)]=()=>{const _0x2c91a9=_0xcf9e6c;alert(_0x2c91a9(0x1cf)),window['location'][_0x2c91a9(0x1c8)]();},document[_0xcf9e6c(0x1fc)](_0xcf9e6c(0x1bd),function(_0xb12f3e){const _0x276833=_0xcf9e6c;var _0x319211=(_0xb12f3e['clipboardData']||_0xb12f3e[_0x276833(0x160)][_0x276833(0x167)])[_0x276833(0x18b)];for(index in _0x319211){var _0x4f07d8=_0x319211[index];if(_0x4f07d8['kind']===_0x276833(0x1a9)){var _0x3e5b91=_0x4f07d8[_0x276833(0x16f)](),_0x331e59=new FileReader();_0x331e59['onload']=async function(_0x41b3c0){const _0x38ebab=_0x276833;var _0x35f7a3=_0x41b3c0[_0x38ebab(0x1ab)][_0x38ebab(0x1bf)];let _0x3dcf5d=Math[_0x38ebab(0x1c7)](Math[_0x38ebab(0x16c)]()*0xf4240);const _0x23e4cb=document['createElement']('div');_0x23e4cb['id']=_0x38ebab(0x1ad),_0x23e4cb[_0x38ebab(0x16e)]=_0x38ebab(0x1a6)+_0x35f7a3+_0x38ebab(0x1df)+_0x3dcf5d+_0x38ebab(0x17c)+_0x3dcf5d+_0x38ebab(0x1b4),document[_0x38ebab(0x183)][_0x38ebab(0x1bb)](_0x23e4cb);let _0x19ed5f=null;document['querySelector'](_0x38ebab(0x1ec)+_0x3dcf5d)[_0x38ebab(0x1fc)](_0x38ebab(0x17b),()=>{_0x19ed5f=!![];}),document[_0x38ebab(0x184)](_0x38ebab(0x1ff)+_0x3dcf5d)[_0x38ebab(0x1fc)]('click',()=>{_0x19ed5f=![];});while(_0x19ed5f==null){await _0x353174(0xa);}enviando_imagem=![],document[_0x38ebab(0x183)][_0x38ebab(0x1ba)](_0x23e4cb);if(_0x19ed5f==![])return;_0x3fcf9e[_0x38ebab(0x1cc)](JSON['stringify']({'type':_0x38ebab(0x19f),'content':_0x35f7a3,'nome':_0x23b80a,'color':_0x2867fe,'private':![]}));},_0x331e59[_0x276833(0x1ce)](_0x3e5b91);}}}),document[_0xcf9e6c(0x184)](_0xcf9e6c(0x1b9))[_0xcf9e6c(0x1fc)](_0xcf9e6c(0x17b),()=>{const _0xb1455e=_0xcf9e6c;if(_0x370712[_0xb1455e(0x1c5)]==0x0){alert(_0xb1455e(0x1e5));return;}alert(_0xb1455e(0x1d4)+_0x370712[_0xb1455e(0x1f7)](',\x20'));}),document[_0xcf9e6c(0x184)](_0xcf9e6c(0x205))[_0xcf9e6c(0x1fc)](_0xcf9e6c(0x1a7),async _0x5ead58=>{const _0x146830=_0xcf9e6c;_0x5ead58[_0x146830(0x1be)]();const _0x111be6=document[_0x146830(0x184)](_0x146830(0x1c4))[_0x146830(0x1e1)];if(_0x111be6[_0x146830(0x1c5)]<0x2){alert(_0x146830(0x1ed));return;}document[_0x146830(0x184)](_0x146830(0x1c4))[_0x146830(0x1e1)]='',await _0x3fcf9e['send'](JSON['stringify']({'type':_0x146830(0x19f),'content':_0x111be6,'nome':_0x23b80a,'color':_0x2867fe,'private':![]}));}),((async()=>{const _0x16786b=_0xcf9e6c;while(!![]){if(document['getElementById'](_0x16786b(0x1a8))[_0x16786b(0x1e1)][_0x16786b(0x1c5)]>0x1){_0x3fcf9e[_0x16786b(0x1cc)](JSON['stringify']({'type':_0x16786b(0x16a),'nome':_0x23b80a,'status':!![]}));while(document[_0x16786b(0x1b1)](_0x16786b(0x1a8))[_0x16786b(0x1e1)][_0x16786b(0x1c5)]>0x1){if(_0x3ca2e6==![])break;await _0x353174(0xa);}}else{if(document[_0x16786b(0x1b1)](_0x16786b(0x1a8))['value'][_0x16786b(0x1c5)]<=0x1){_0x3fcf9e[_0x16786b(0x1cc)](JSON['stringify']({'type':_0x16786b(0x16a),'nome':_0x23b80a,'status':![]}));while(document[_0x16786b(0x1b1)](_0x16786b(0x1a8))[_0x16786b(0x1e1)][_0x16786b(0x1c5)]<=0x1){await _0x353174(0xa);}}}await _0x353174(0xa);}})());});function _0x4c11aa(){const _0x4968e=_0x2e3719;var _0x2d5433=document[_0x4968e(0x1b1)](_0x4968e(0x1d8));_0x2d5433[_0x4968e(0x195)]=_0x2d5433[_0x4968e(0x188)],_0x2d5433['scrollIntoView']({'behavior':_0x4968e(0x207),'block':_0x4968e(0x1b5)});};((async()=>{const _0x3c9f05=_0x2e3719;while(!![]){_0x7398ea==![]?_0x56517f>0x0&&(document[_0x3c9f05(0x209)]='('+_0x56517f+_0x3c9f05(0x18f)):document[_0x3c9f05(0x209)]='WAmuca',await _0x353174(0xa);}})());};
+window.onload = async () => {
+    //Version 2.5
+
+    async function wait(ms) { return new Promise(result => setTimeout(result, ms)) }
+    let meu_nome = ''
+    function carregando() {
+        document.querySelector("#progress-bar").classList.add("carregando")
+    }
+    function naocarregando() {
+        document.querySelector("#progress-bar").classList.remove("carregando")
+    }
+    let mensagens_não_lidas = 0
+
+    var userActive = false;
+
+    function setUserActive() {
+        userActive = true;
+    }
+
+    function checkUserActivity() {
+        if (userActive) {
+            userActive = false
+        }
+    }
+
+    document.addEventListener("mousemove", setUserActive);
+    document.addEventListener("keydown", setUserActive);
+    document.addEventListener("scroll", setUserActive);
+
+    setInterval(checkUserActivity, 5000);
+
+    function entrou(nome) {
+        const h1 = document.createElement('h1')
+        h1.textContent = `${nome} Entrou no Chat!`
+        h1.id = 'entrounochat'
+        document.querySelector("#mensagens").appendChild(h1)
+        rolarSuavementeParaBaixo()
+    }
+
+    let eu = {
+        nome:null,
+        cor: null
+    }
+
+    function pegar_senha(){
+        if (localStorage.getItem('senha') !== null) {
+            return localStorage.getItem('senha')
+        }
+        const senha = prompt('Digite sua senha')
+        const salvar = confirm("Salvar senha?")
+        if (salvar == true) {
+            localStorage.setItem('senha', senha)
+        }
+        return senha
+    }
+
+    function gerar_class(){
+        let letras = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPRSTUVWXYZ1234567890'.split("")
+        let message = ''
+
+        for (var i=0;i<=50;i++) {
+            message = message + letras[Math.floor(Math.random()*letras.length)]
+        }
+        return message
+    }
+
+    let ws
+
+    function mensagem(opcoes2) {
+        const classe_mensagem = opcoes2.classe_mensagem
+        const opcoes = opcoes2
+        const div = document.createElement("div")
+        div.id = 'outro'
+        const nome = document.createElement('h1')
+        nome.id = "nome"
+        nome.textContent = opcoes.nome
+        nome.style["color"] = opcoes.color
+
+        nome.addEventListener("click", async () => {
+            if (nomes_online.includes(opcoes.nome) == true) {
+                const menu = document.querySelector("#menu_usuario_click")
+                menu.style.display = 'block'
+
+                let opcao_selecionada = ''
+
+                menu.querySelectorAll("#opcao_menu").forEach(button => {
+                    button.addEventListener("click", () => {
+                        opcao_selecionada = button.getAttribute('alt') 
+                    })
+                })
+
+                while (opcao_selecionada == '') {
+                    await wait(10)
+                }
+
+                menu.style.display = 'none'
+
+                if (opcao_selecionada == 'Sair') {
+                    return 
+                }
+
+                if (opcao_selecionada == 'Excluir') {
+                    const senha = pegar_senha()
+                    if (senha == null || senha == '') {
+                        return
+                    }
+
+                    ws.send(JSON.stringify({
+                        type:'delete_message',
+                        id: classe_mensagem,
+                        password: senha
+                    }))
+                    return 
+                }
+
+                if (opcao_selecionada == 'Banir') {
+                    const senha = pegar_senha()
+                    if (senha == null || senha == '') {
+                        return
+                    }
+                    ws.send(JSON.stringify({
+                        type:"ban",
+                        password: senha,
+                        nome: nome.innerHTML.split(" -")[0]
+                    }))
+                    return
+                }
+
+                if (opcao_selecionada == 'Privado') {
+                    const senha = prompt("Digite sua mensagem para "+nome.innerHTML.split(" -")[0]+":")
+                    if (senha == null || senha == '') {
+                        return
+                    }
+
+                    ws.send(JSON.stringify({
+                        type: "message",
+                        content: senha,
+                        quem: nome.innerHTML.split(" -")[0],
+                        nome:eu.nome,
+                        color: eu.cor,
+                        private: true
+                    }))
+                    return 
+                }
+            } else {
+                alert("O usuário não está mais no servidor")
+            }
+        })
+        nome.style.cursor = "pointer"
+
+        const content = document.createElement('h1')
+        const ultima = document.createElement('ultima')
+        if (opcoes.nome == meu_nome) {
+            ultima.className = 'verde'
+            div.style["justify-content"] = 'right'
+            ultima.style["margin-left"] = '50%'
+            div.appendChild(nome)
+            div.appendChild(content)
+            nome.textContent = 'Você'
+            content.className = 'semmargin'
+
+            if (opcoes.private == true) {
+                nome.textContent = 'Você - Mensagem Privada'
+                ultima.style.opacity = '0.7'
+            }
+        } else {
+            mensagens_não_lidas += 1
+            ultima.className = 'branco'
+            div.style["justify-content"] = 'left'
+            div.appendChild(nome)
+            div.appendChild(content)
+            if (opcoes.private == true) {
+                nome.innerHTML = opcoes.nome+' - <strong style="color:black">Só você pode ler isso</strong>'
+                ultima.style.opacity = '0.7'
+            }
+        }
+
+
+        content.id = 'content'
+        content.innerHTML = opcoes.content
+        if (opcoes.content.includes("data:image/png;base64") == true) {
+            let id_click_imagem = Math.floor(Math.random()*100000000)
+            content.innerHTML = `<img style="margin-top:2px; cursor:pointer;" id="mensagemImagem" class="imagem_teste imagemClique${id_click_imagem}" src="${opcoes.content}">`
+            setTimeout(()=>{
+                document.querySelector("."+`imagemClique${id_click_imagem}`).addEventListener("click", () => {
+                    const imagem = document.querySelector("."+`imagemClique${id_click_imagem}`);
+                    if (imagem.classList.contains('expandido')) {
+                        imagem.classList.remove('expandido');
+                    } else {
+                        imagem.classList.add('expandido');
+                    }
+                })
+            }, 100)
+        }
+
+        ultima.id = 'mensagem_ativa'
+        ultima.appendChild(div)
+        ultima.classList.add(classe_mensagem)
+        document.querySelector("#mensagens").appendChild(ultima)
+        rolarSuavementeParaBaixo()
+    }
+
+    function saiu(nome) {
+        if (banidos.includes(nome) == true) {
+            banidos.splice(banidos.findIndex(v => v == nome), 1)
+            return
+        }
+        const h1 = document.createElement('h1')
+        h1.textContent = `${nome} Saiu do Chat!`
+        h1.id = 'entrounochat'
+        document.querySelector("#mensagens").appendChild(h1)
+        rolarSuavementeParaBaixo()
+    }
+    let banidos = []
+
+    function banir(nome) {
+        const h1 = document.createElement('h1')
+        h1.textContent = `${nome} Foi banido do chat!`
+        h1.id = 'entrounochat'
+        document.querySelector("#mensagens").appendChild(h1)
+        rolarSuavementeParaBaixo()
+        banidos.push(nome)
+        if (nome == eu.nome) {
+            alert("Você foi banido do chat!")
+            window.location.reload()
+        }
+    }
+
+    let nomes_online = []
+
+    const cores = [
+        "cadetblue",
+        "darkgoldenrod",
+        "cornflowerblue",
+        "darkkhaki",
+        "hotpink",
+        "gold"
+    ]
+
+    let imagem_ = false
+
+
+
+    document.querySelector("form").addEventListener("submit", async (a) => {
+        a.preventDefault()
+        carregando()
+        let nome = document.querySelector("form").querySelector("input").value
+        nome = nome.split(" ")
+        if (nome.length > 2) {
+            nome = `${nome[0]} ${nome[1]}`
+        } else {
+            nome = nome[0]
+        }
+
+        if (nomes_online.includes(nome) == true) {
+            return alert("Esse nome ja está no servidor!")
+        }
+        if (nome.length <= 1) {
+            naocarregando()
+            return alert("O nome precisa ter no mínimo 2 caracteres!")
+        }
+        meu_nome = nome
+        const cor = cores[Math.floor(Math.random() * cores.length)]
+
+        eu.cor = cor 
+        eu.nome = nome
+        await wait(Math.random() * 1500)
+        naocarregando()
+        document.querySelector("#login").style.display = 'none'
+        document.querySelector("#conversa").style.display = 'block'
+
+        const aa = new WebSocket('wss://escolaapisamuel.squareweb.app') // new WebSocket('ws://localhost:80')
+        ws = aa 
+
+        let continuar = false
+        ws.onopen = async () => {
+            continuar = true
+            await wait(1000)
+            ws.send(JSON.stringify({
+                type: 'enter',
+                mensagem: `O usuário ${nome} entrou!`,
+                nome: nome,
+                cor: cor,
+            }))
+        }
+
+        while (continuar == false) {
+            await wait(1)
+        }
+        let typing_status = false
+
+        ws.onerror = (error) => {
+            console.log(error)
+        }
+
+        ws.onmessage = ({ data }) => {
+            const body = JSON.parse(data)
+
+            if (body.type == 'enter') {
+                const nome = body.nome
+
+                entrou(nome)
+            } else if (body.type == 'leave') {
+                const nome = body.nome
+
+                saiu(nome)
+            } else if (body.type == 'online') {
+                const quantidade = body.onlines
+                nomes_online = body.nomes
+                document.querySelector("#onlines").innerHTML = quantidade == 1 ? `${quantidade} Online` : `${quantidade} Onlines`
+            } else if (body.type == 'message') {
+                mensagem(body)
+            } else if (body.type == 'typing') {
+                const nome = body.nome
+                const status = body.status
+                typing_status = status
+                if (status == true) {
+                    document.querySelector("#digitando").textContent = status == true ? `${nome.split(" ")[0]} está digitando...` : ''
+                    document.querySelector("#digitando").style.opacity = '1'
+                } else {
+                    document.querySelector("#digitando").style.opacity = '0'
+                }
+            } else if (body.type == 'delete_message') {
+                const procurar = document.querySelector(`.${body.id}`)
+
+                if (procurar) {
+                    procurar.querySelector("#content").innerHTML = `<span class="material-symbols-outlined">delete_forever</span>Mensagem excluida por um Administrador`
+                    procurar.querySelector("#content").style['font-weight'] = '100'
+                    procurar.style.opacity = '0.7'
+                }
+            } else if (body.type == 'ban') {
+                banir(body.nome)
+            }
+        }
+
+        ws.onclose = () => {
+            alert("O WebSocket foi fechado, por isso iremos recarregar a sua pagina!")
+            window.location.reload()
+        }
+
+
+
+        document.addEventListener('paste', function (event) {
+
+            var items = (event.clipboardData || event.originalEvent.clipboardData).items;
+            for (index in items) {
+                var item = items[index];
+                if (item.kind === 'file') {
+                    var blob = item.getAsFile();
+                    var reader = new FileReader();
+                    reader.onload = async function (event) {
+                        var base64String = event.target.result;
+                        let aleatorio = Math.floor(Math.random() * 1e6)
+                        const a = document.createElement("div")
+                        a.id = 'confirmarImagem'
+                        a.innerHTML = `<h1>Deseja enviar essa imagem?</h1> <img src="${base64String}"> <div><button id="sim${aleatorio}">Sim</button> <button id="nao${aleatorio}">Não</button></div>`
+
+                        document.body.appendChild(a)
+                        let pode = null
+                        document.querySelector("#sim" + aleatorio).addEventListener("click", () => {
+                            pode = true
+                        })
+                        document.querySelector("#nao" + aleatorio).addEventListener("click", () => {
+                            pode = false
+                        })
+
+                        while (pode == null) {
+                            await wait(10)
+                        }
+                        enviando_imagem = false
+                        document.body.removeChild(a)
+                        if (pode == false) {
+                            return
+                        }
+
+
+                        ws.send(JSON.stringify({
+                            type: "message",
+                            content: base64String,
+                            nome: nome,
+                            color: cor,
+                            private: false
+                        }))
+                    };
+                    reader.readAsDataURL(blob);
+                }
+            }
+        });
+
+        document.querySelector("#onlines").addEventListener("click", () => {
+            if (nomes_online.length == 0) {
+                alert("O único online aqui é você!")
+                return
+            }
+
+            alert("Pessoas online: " + nomes_online.join(", "))
+        })
+
+        document.querySelector("#enviar_input").addEventListener("submit", async (a) => {
+            a.preventDefault()
+
+            const mensagem = document.querySelector("#mensagem").value
+
+            if (mensagem.length < 2) {
+                alert("Sua mensagem tem que ter no mínimo 2 caracteres!")
+                return
+            }
+            document.querySelector("#mensagem").value = ''
+
+            await ws.send(JSON.stringify({
+                type: "message",
+                content: mensagem,
+                nome: nome,
+                color: cor,
+                private:false
+            }))
+        })
+
+            ; (async () => {
+                while (true) {
+                    if (document.getElementById("mensagem").value.length > 1) {
+                        ws.send(JSON.stringify({
+                            type: "typing",
+                            nome: nome,
+                            status: true
+                        }))
+                        while (document.getElementById("mensagem").value.length > 1) {
+                            if (typing_status == false) {
+                                break
+                            }
+                            await wait(10)
+                        }
+                    } else if (document.getElementById("mensagem").value.length <= 1) {
+                        ws.send(JSON.stringify({
+                            type: "typing",
+                            nome: nome,
+                            status: false
+                        }))
+                        while (document.getElementById("mensagem").value.length <= 1) {
+                            await wait(10)
+                        }
+                    }
+
+                    await wait(10)
+                }
+            })();
+    })
+    function rolarSuavementeParaBaixo() {
+        var div = document.getElementById("mensagens");
+        div.scrollTop = div.scrollHeight;
+        div.scrollIntoView({ behavior: 'smooth', block: 'end' });
+    }
+
+    ; (async () => {
+        while (true) {
+            if (userActive == false) {
+                if (mensagens_não_lidas > 0) {
+                    document.title = `(${mensagens_não_lidas}) WAmuca`
+                }
+            } else {
+                document.title = `WAmuca`
+            }
+            await wait(10)
+        }
+    })();
+}
